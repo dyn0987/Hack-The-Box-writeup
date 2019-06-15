@@ -11,7 +11,7 @@ MISC: old is gold, fsociety,Art,inferno,blackhole
 Crypto:classic,you can do it,brainy's cipher,deceitful batman,bank heist
 
 
-Stego:DaVinci,forest,digital cube,unified,misDIrection
+Stego:DaVinci,forest,digital cube,unified,misDIrection,retro
 
 
 Web:HDC
