@@ -2,7 +2,7 @@
 
 Challenges included in the writeup:
 
-Reversing: Snake, Find the Easy Pass, Art of Reversing
+Reversing: Snake, Find the Easy Pass, Art of Reversing,Pusheen Loves Graphs
 
 
 MISC: old is gold, fsociety,Art,inferno,blackhole
